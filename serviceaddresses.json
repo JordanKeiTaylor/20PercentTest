@@ -1,0 +1,7 @@
+{"emailtextserver":"http://localhost:4000",
+"jobrunner":"http://localhost:5000",
+"authserver":"http://localhost:6000",
+"userdb":"http://localhost:7000",
+"emailreceipt":"http://localhost:8000",
+"plaidserver":"http://localhost:9000"
+}
